@@ -19,3 +19,4 @@ Tecnologias utilizadas:
 
 Este projeto foi desenvolvido como uma aplicação de código aberto e está disponível no GitHub. Sinta-se à vontade para contribuir, fornecer feedback ou usá-lo como base para seus próprios projetos.
 
+Link para o website: https://leocalheiros.github.io/lista-de-tarefas/
